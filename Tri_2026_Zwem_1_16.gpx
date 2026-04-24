@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="afstandmeten.nl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>Tri_2024_Zwem_1/16</name>
+    <desc/>
+    <trkseg>
+      <trkpt lat="52.0231355" lon="4.3823875">
+        <ele>0.00000</ele>
+        <time>2024-01-29T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="52.0231355" lon="4.3823875">
+        <ele>0.00000</ele>
+        <time>2024-01-29T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="52.0245084" lon="4.3791471">
+        <ele>0.00000</ele>
+        <time>2024-01-29T00:59:50Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
